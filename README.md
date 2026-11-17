@@ -6,7 +6,7 @@ Cada carpeta es un recurso. Cada uno tiene su artículo en marketingreset.es, qu
 
 ## Cómo instalar una skill
 
-**Descarga el .zip** de la skill desde su artículo o desde [Releases](https://github.com/Josellinares/marketingreset-recursos/releases).
+**Descarga el .zip** de la skill desde su artículo o desde [Releases](https://github.com/marketing-reset/marketingreset-recursos/releases).
 
 **En Claude (claude.ai o la app de escritorio):**
 1. Ve a *Configuración → Capacidades → Skills*.
