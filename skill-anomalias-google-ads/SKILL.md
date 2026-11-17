@@ -1,5 +1,5 @@
 ---
-name: vigilancia-roturas-google-ads
+name: skill-anomalias-google-ads
 description: Vigilancia diaria de roturas técnicas en cuentas de Google Ads (web caída o lenta, formularios que no envían, etiquetas que no saltan o duplican, tráfico parado, landings rotas) con base estadística, usando Ads, GA4 y visita a las URLs. Úsala para la revisión diaria o cuando se sospeche que algo se ha roto.
 ---
 
@@ -157,5 +157,6 @@ Debajo, como mucho 3 líneas con la revisión propuesta. Detalle del diagnóstic
 
 ## Versiones
 
+- **1.2** — La skill pasa a llamarse `skill-anomalias-google-ads`, igual que su carpeta y su descarga.
 - **1.1** — La skill ya no incluye cuentas reales: plantilla `references/cuentas.plantilla.json`, sección "Configuración inicial", validación de la configuración en el motor y `informe_diario(cuentas=[...])`.
 - **1.0** — Primera versión.
